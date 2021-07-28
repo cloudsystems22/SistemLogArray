@@ -1,0 +1,16 @@
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\SistemLogArray.exe
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\SistemLogArray.deps.json
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\SistemLogArray.runtimeconfig.json
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\SistemLogArray.runtimeconfig.dev.json
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\SistemLogArray.dll
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\ref\SistemLogArray.dll
+C:\DPSP\SistemLogArray\SistemLogArray\bin\Debug\net5.0\SistemLogArray.pdb
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.csprojAssemblyReference.cache
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.AssemblyInfoInputs.cache
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.AssemblyInfo.cs
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.csproj.CoreCompileInputs.cache
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.dll
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\ref\SistemLogArray.dll
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.pdb
+C:\DPSP\SistemLogArray\SistemLogArray\obj\Debug\net5.0\SistemLogArray.genruntimeconfig.cache
